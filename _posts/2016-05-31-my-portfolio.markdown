@@ -9,7 +9,7 @@ This is a collection of my work over the last few years.
 The Kindle clips project I'm working on with my partner Mike Kelly [can be found here][jekyll-kc].
 
 ## My Resume
-You can [get the PDF of my resume]({{ localhost:4000 }}/assets/CastleResume.pdf) directly.
+You can [get the PDF of my resume]({{ site.url }}/assets/CastleResume.pdf) directly.
 
 ## Various projects related to Coursera
 *Add various projects from Coursera, especially the shiny apps
@@ -20,7 +20,7 @@ The pitchdeck for a Shiny app I wrote which predicts player position based on ph
 
 [Lending Club Analysis][jekyll-lc] - A report on Lending Club's customers and business model using their publicly available data. 
 
-![lending club graph]({{ localhost:4000 }}/assets/loan-repaid-rate.png)
+![lending club graph]({{ site.url }}/assets/loan-repaid-rate.png)
 <br>
 *a graph of rate of loans repaid by interest rate from the Lending Club report*
 
@@ -28,11 +28,11 @@ The pitchdeck for a Shiny app I wrote which predicts player position based on ph
 
 [Major Weather Events in the U.S.][jekyll-weather] - Anldlf....
 
-[Regression models using Motor Trend car data][jekyll-motor]
+[Regression models using Motor Trend car data][jekyll-motor] - Multivariate regression models are used to analyse the relationship between transmission and fuel efficiency.
 
 [Simulation of the Central Limit Theorem][jekyll-clt]
 
-An [analysis of the Titanic crash][jekyll-titan] from a few years ago when I first began learning R.
+[Analysis of the Titanic crash][jekyll-titan] - From a few years ago.
 
 
 [jekyll-lc]: http://www.googledrive.com/host/0Bw6a2LJ4wLU-Mkt4cDRTakZuWUk
