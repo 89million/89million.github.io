@@ -9,7 +9,7 @@
 title: Introvert Peak
 email: chrisdcastle [at] gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A personal website for Chris Castle
+  Christopher Castle's personal site
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://89million.github.io" # the base hostname & protocol for your site
 twitter_username: computersdotcom
