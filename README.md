@@ -1,2 +1,2 @@
 # 89million.github.io
-My portfolio on github pages
+My blog and portfolio on github pages, shoutout jekyll

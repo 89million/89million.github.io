@@ -6,13 +6,9 @@ This is a collection of my work over the last few years.
 
 
 ## Kindle Clips
-The Kindle clips project I'm working on with my partner Mike Kelly [can be found here][jekyll-kc].
+The Kindle clips project I'm working on with my partner Mike Kelly [can be found here][jekyll-kc]. It's a work in progress.
 
-## My Resume
-You can [get the PDF of my resume]({{ site.url }}/assets/CastleResume.pdf) directly.
-
-## Various projects related to Coursera
-*Add various projects from Coursera, especially the shiny apps
+## Shiny web app
 
 The pitchdeck for a Shiny app I wrote which predicts player position based on physical attributes [can be found here][jekyll-nfl-pitch]. The app itself [is available to for use here.][jekyll-nfl]
 
@@ -26,13 +22,16 @@ The pitchdeck for a Shiny app I wrote which predicts player position based on ph
 
 [Quantifying Exercise Quality][jekyll-qeq] - A report on the effectiveness of using physical censors to judge the quality of certain exercises. 
 
-[Major Weather Events in the U.S.][jekyll-weather] - Anldlf....
+[Major Weather Events in the U.S.][jekyll-weather] - What are the worst weather events inflicting the United States?
 
 [Regression models using Motor Trend car data][jekyll-motor] - Multivariate regression models are used to analyse the relationship between transmission and fuel efficiency.
 
-[Simulation of the Central Limit Theorem][jekyll-clt]
+[Simulation of the Central Limit Theorem][jekyll-clt] - A fundamental topic in inferential statistics.
 
 [Analysis of the Titanic crash][jekyll-titan] - From a few years ago.
+
+## My Resume
+You can [get the PDF of my resume]({{ site.url }}/assets/CastleResume.pdf) directly.
 
 
 [jekyll-lc]: http://www.googledrive.com/host/0Bw6a2LJ4wLU-Mkt4cDRTakZuWUk
