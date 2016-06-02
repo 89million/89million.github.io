@@ -4,7 +4,8 @@
 .site-header {
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
+    min-height: 343px;
+
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -185,8 +186,8 @@
 }
 
 .post-meta {
-    font-size: $small-font-size;
-    color: $grey-color;
+    font-size: 1px;
+    color: #dff2f9;
 }
 
 .post-link {
@@ -204,7 +205,7 @@
 }
 
 .post-title {
-    font-size: 42px;
+    font-size: 32px;
     letter-spacing: -1px;
     line-height: 1;
 

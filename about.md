@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Spent the last few years learning new skills like programming in R and to a lesser extent Python and Javascript, data visualization, machine learning, statistics, data cleaning, [*takes a breath*] SQL, database schema, and predictive analytics. 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Excel master, cool with pretty much the entire Microsoft enterprise suite. Not *too* scared of the command line
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Zealous learner shifting to a career in data science, interested in the application of statistical analysis to broad sets of problems. I have experience in vendor management, investigative research, quality assurance and automated processes. My other interests include hiking, reading history, and studying monetary and economic systems.
+
+B.A. in History from the University of Washington
