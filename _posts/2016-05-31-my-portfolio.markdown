@@ -5,7 +5,7 @@ title:  "Chris Castle's Portfolio"
 This is a collection of my work over the last few years. 
 
 ## Kindle Clips
-The Kindle clips project I'm working on with my partner Mike Kelly [can be found here][jekyll-kc]. The [Github repo is here][jekyll-kc-github] It's a work in progress but we hope to have a public demo available soon.
+The Kindle clips project I'm working on with my colleague Mike Kelly [can be found here][jekyll-kc]. The [Github repo is here][jekyll-kc-github] It's a work in progress but we hope to have a public demo available soon.
 
 ## Shiny web app
 
@@ -39,7 +39,7 @@ The pitchdeck for a Shiny app I wrote which predicts player position based on ph
 
 [Simulation of the Central Limit Theorem][jekyll-clt] - A fundamental topic in inferential statistics. The report shows that by repeatedly taking the sample mean from an exponential distribution that the resulting distribution of those sample means is essentially normal given a large enough sample size. 
 
-[Analysis of the Titanic crash][jekyll-titan] - One of the first reports in R Markdown I wrote a few years ago. C
+[Analysis of the Titanic crash][jekyll-titan] - One of the first reports in R Markdown I wrote a few years ago.
 
 ## Resume
 You can [get the PDF of my resume here]({{ site.url }}/assets/CastleResume.pdf).
