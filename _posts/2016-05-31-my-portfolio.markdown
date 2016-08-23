@@ -48,8 +48,8 @@ You can [get the PDF of my resume here]({{ site.url }}/assets/CastleResume.pdf).
 ![resume]({{ localhost:4000 }}/assets/CastleResume.png){: .center-image} </a>
 
 
-[jekyll-lc]: http://www.googledrive.com/host/0Bw6a2LJ4wLU-Mkt4cDRTakZuWUk
-[jekyll-titan]: http://www.googledrive.com/host/0Bw6a2LJ4wLU-anFza19sWkZrOWc
+[jekyll-lc]: http://89million.github.io/castle/lending-club.htm
+[jekyll-titan]: http://89million.github.io/castle/titanic.htm
 [jekyll-kc]: https://kindleclips.herokuapp.com/
 [jekyll-kc-github]: https://github.com/mikechriskelly/kindleclips
 [jekyll-nfl]: https://chriscastle.shinyapps.io/DDP-proj-NFL-combine/
